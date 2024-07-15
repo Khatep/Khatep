@@ -37,8 +37,7 @@ I have used: <br/>
 - Dart and Flutter framework to build cross-platform application. <br/>
 <br/>
 From September 2023 to June 2024, I have been studying Android development through Samsung Innovation Campus course. 
-
-
+<br/>
 - 📢 Regular participant in different IT meetups, conferences.
 - 📚 Graduate different courses in Stepik, Coursera.
 - ⚡ Good student with a GPA of 3.53
@@ -67,12 +66,6 @@ From September 2023 to June 2024, I have been studying Android development throu
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="kafka logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
