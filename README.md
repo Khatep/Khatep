@@ -4,7 +4,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/nurgali-khatep-432746276" target="_blank">
+  <a href="https://www.linkedin.com/in/nurgali-khatep-432746276/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0069a0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://web.telegram.im/#@khatepnurgali" target="_blank">
