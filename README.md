@@ -36,12 +36,8 @@ I have used: <br/>
 - Java, xml markup and firebase for android mobile application development, <br/> 
 - Dart and Flutter framework to build cross-platform application. <br/>
 <br/>
-From September 2023 to June 2024, I have been studying Android development through Samsung Innovation Campus course. 
 <br/>
-- 📢 Regular participant in different IT meetups, conferences. <br/>
-- 📚 Graduate different courses in Stepik, Coursera. <br/>
-- ⚡ Good student with a GPA of 3.53 <br/>
-
+From September 2023 to June 2024, I have been studying Android development through Samsung Innovation Campus course. 
 </p>
 
 ###
