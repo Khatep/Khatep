@@ -66,6 +66,8 @@ From September 2023 to June 2024, I have been studying Android development throu
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="github logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=maven" height="40" alt="maven logo"  />
