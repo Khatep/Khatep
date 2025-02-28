@@ -1,7 +1,7 @@
 <br clear="both">
-<h1 align="center">Hi👋 Nice to see you here!</h1>
-
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+Nice+to+see+you+here!;&font=Fira%20Code&center=true&width=550&height=80&duration=4000&pause=1000&color=F3F6F4&size=30" alt="Hi👋 Nice to see you here!">
+</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nurgali-khatep-432746276/" target="_blank">
