@@ -10,15 +10,15 @@
   <a href="https://t.me/khatepnurgali" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-<a href="https://web.telegram.im/#@khatepnurgali" target="_blank">
+<!-- <a href="https://web.telegram.im/#@khatepnurgali" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram-Web&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
+  </a> -->
   <a href="mailto:nurgali.khatep@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
   </a>
-  <a href="https://wa.me/+7711134882" target="_blank">
+<!--   <a href="https://wa.me/+7711134882" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
-</a>
+</a> -->
 </div>
 
 ###
