@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">My name is Nurgali, I am 20 years old and I am an beginner Java Backend Developer. My journey started with my enrollment in IITU, now I am a 4th year student. Over the years I have studied different areas of the IT field and used different interesting programming languages and frameworks. 
+<p align="left">My name is Nurgali, I am 21 years old and I am an beginner Java Backend Developer. My journey started with my enrollment in IITU, now I'm doing an internship at S1LKPAY company. Over the years I have studied different areas of the IT field and used different interesting programming languages and frameworks. 
 
 I have used: <br/>
 - C++ as my first programming language, <br/>
@@ -35,8 +35,10 @@ I have used: <br/>
 - SQL on postgresql DBMS to create and manage relational databases, <br/>
 - Java to understand OOP concepts, and develop console and desktop (Swing library) applications, <br/>
 - Java and Spring family of frameworks for Backend development, <br/>
+- Docker to containerize applications and manage microservices efficiently, <br/>
+- Kubernetes for orchestration, scaling, and deployment automation of containerized applications, <br/>
 - Html, CSS, JavaScript and Node.js, React for Web Frontend development, <br/>
-- Java, xml markup and firebase for android mobile application development, <br/> 
+- Java, XML markup and Firebase for android mobile application development, <br/> 
 - Dart and Flutter framework to build cross-platform application. <br/>
 <br/>
 <br/>
