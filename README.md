@@ -1,6 +1,6 @@
 <br clear="both">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+Nice+to+see+you+here!;&font=Fira%20Code&center=true&width=550&height=80&duration=4000&pause=1000&color=F3F6F4&size=30" alt="Hi👋 Nice to see you here!">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+Nice+to+see+you+here!;&font=Fira%20Code&center=true&width=550&height=80&duration=4000&pause=1000&color=696969&size=30" alt="Hi👋 Nice to see you here!">
 </p>
 
 <div align="center">
