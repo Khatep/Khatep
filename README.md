@@ -3,6 +3,10 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+Nice+to+see+you+here!;&font=Fira%20Code&center=true&width=550&height=80&duration=4000&pause=1000&color=696969&size=30" alt="Hi👋 Nice to see you here!">
 </p>
 
+<picture>
+  <img alt="github-snake" src="https://github.com/khatep/khatep/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/nurgali-khatep-432746276/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0069a0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
