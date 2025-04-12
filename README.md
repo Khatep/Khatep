@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+Nice+to+see+you+here!;&font=Fira%20Code&center=true&width=550&height=80&duration=4000&pause=1000&color=696969&size=30" alt="Hi👋 Nice to see you here!">
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/khatep/khatep/output/github-contribution-grid-snake-dark.svg)
+<!--![Snake animation](https://raw.githubusercontent.com/khatep/khatep/output/github-contribution-grid-snake-dark.svg) -->
 
 <picture>
   <img alt="github-snake" src="https://github.com/khatep/khatep/blob/output/github-contribution-grid-snake-dark.svg" />
